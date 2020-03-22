@@ -1,4 +1,2 @@
 # hello-world
-bRANCH
-FIRST GITHUB IN HBC 
-HAPPY LEARNING
+Hey this is for test purpose
